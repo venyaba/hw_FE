@@ -1,0 +1,22 @@
+.todo_container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.todo_container h1{
+    color: cadetblue;
+}
+
+.input_wrapper input, button{
+    padding:10px 5px;
+    border: 1px solid cadetblue;
+ 
+}
+
+.input_wrapper button{
+    padding: 10px 15px;
+    color: aliceblue;
+    background-color: cadetblue ;
+}
